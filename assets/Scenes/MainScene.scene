@@ -654,7 +654,7 @@
     },
     "_enabled": true,
     "__prefab": null,
-    "jumpHeight": 200,
+    "jumpHeight": 150,
     "jumpDuration": 0.3,
     "_id": "aaBhiZPA5A6ZBfsxjpZx/b"
   },
